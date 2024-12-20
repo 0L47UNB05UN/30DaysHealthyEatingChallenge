@@ -1,0 +1,155 @@
+<resources>
+    <string name="app_name">30 Days Healthy Eating Challenge</string>
+    <string name="tip">tip: </string>
+    <string name='day1'>
+        Day 1: Drink 8 cups of water.\n
+        Staying hydrated is key to supporting digestion and reducing cravings for unhealthy snacks.
+    </string>
+    <string name='day1tip'>Tip:\nAdd flavor to water with lemon or cucumber to make it more enjoyable.</string>
+    <string name="day2">
+        Day 2: Eat at least 5 servings of vegetables.\n
+        Aim for a variety of colors to ensure a broad spectrum of nutrients.
+    </string>
+    <string name="day2tip">Tip:\nInclude vegetables in every meal—add spinach to smoothies, or enjoy roasted veggies as a side.</string>
+    <string name="day3">
+        Day 3: Cut out all sugary drinks.\n
+        This includes soda, sugary coffees, and energy drinks.
+    </string>
+    <string name="day3tip">Tip:\nReplace sugary drinks with water, herbal tea, or sparkling water.</string>
+    <string name="day4">
+        Day 4: Replace white bread with whole grains.\n
+        Whole grains provide more fiber and essential nutrients compared to refined grains.
+    </string>
+    <string name="day4tip">Tip:\nTry whole grain breads, quinoa, oats, or brown rice.</string>
+    <string name="day5">
+        Day 5: Try a new vegetable-based recipe.\n
+        Experimenting with new vegetables and cooking methods adds variety and excitement to meals.
+    </string>
+    <string name="day5tip">Tip:\nTry roasting or grilling vegetables for enhanced flavor.</string>
+    <string name="day6">
+        Day 6: Plan meals for the week ahead.\n
+        Planning helps ensure you have healthy meals and snacks ready, avoiding temptations to rely on processed foods.
+    </string>
+    <string name="day6tip">Tip:\nWrite down a meal plan and make a grocery list.</string>
+    <string name="day7">
+        Day 7: Do a food prep session to prepare healthy meals.\n
+        Prepping meals in advance can save time and ensure you stick to your healthy eating plan.
+    </string>
+    <string name="day7tip">Tip:\nCook in bulk and store meals in containers for easy access throughout the week.</string>
+    <string name="day8">
+        Day 8: Replace red meat with lean proteins like chicken or tofu.\n
+        Reducing red meat can lower saturated fat intake and support heart health.
+    </string>
+    <string name="day8tip">Tip:\nTry plant-based proteins like lentils, chickpeas, and tempeh for variety.</string>
+    <string name="day9">
+        Day 9: Add healthy fats (e.g., avocado, nuts, olive oil) to meals.\n
+        Healthy fats are essential for hormone regulation and brain function.
+    </string>
+    <string name="day9tip">Tip:\nAdd avocado to salads or spread on toast, drizzle olive oil on roasted veggies, or snack on nuts.</string>
+    <string name="day10">
+        Day 10: No snacking after dinner.\n
+        This helps regulate your eating habits and prevent overeating in the evening.
+    </string>
+    <string name="day10tip">Tip:\nDrink herbal tea or a glass of water if you feel the urge to snack.</string>
+    <string name="day11">
+        Day 11: Try a vegetarian meal.\n
+        Give plant-based meals a try to reduce animal product consumption and increase fiber.
+    </string>
+    <string name="day11tip">Tip:\nTry making a vegetable stir-fry, lentil curry, or a quinoa salad.</string>
+    <string name="day12">
+        Day 12: Eat a balanced breakfast that includes protein and fiber.\n
+        A good breakfast fuels the day and helps manage hunger.
+    </string>
+    <string name="day12tip">Tip:\nOpt for a breakfast with eggs, oats, or chia seeds for protein and fiber.</string>
+    <string name="day13">
+        Day 13: Have a meatless day.\n
+        Try a full day without animal products to increase vegetable intake and explore plant-based protein sources.
+    </string>
+    <string name="day13tip">Tip:\nFocus on beans, tofu, and legumes for protein.</string>
+    <string name="day14">
+        Day 14: Share a healthy recipe with a friend or community.\n
+        Sharing your healthy eating journey can motivate others and expand your recipe repertoire.
+    </string>
+    <string name="day14tip">Tip: Take a photo of your meal and share it on social media or with friends.</string>
+    <string name="wk3">Week 3</string>
+    <string name="day15">
+        Day 15: Practice mindful eating (eat slowly, savor each bite).\n
+        Mindful eating helps your body tune to your body\'s hunger and fullness cues.
+    </string>
+    <string name="day15tip">Tip:\nPut down your utensils between bites and avoid distractions like watching TV while eating.</string>
+    <string name="day16">
+        Day 16: Control portion sizes (use smaller plates, avoid overeating).\n
+        Smaller portions can help with weight management and prevent overeating.
+    </string>
+    <string name="day16tip">Tip:\nTry using smaller plates or measuring portions to avoid overeating.</string>
+    <string name="day17">
+        Day 17: Add a healthy dessert (e.g., fruit salad, yogurt).\n
+        Satisfy your sweet tooth with healthy options like fruit or Greek yogurt instead of sugary treats.
+    </string>
+    <string name="day17tip">Tip:\nMake a fruit parfait with yogurt, nuts, and honey.</string>
+    <string name="day18">
+        Day 18: Focus on eating whole, unprocessed foods.\n
+        Aim to eat foods in their most natural form, avoiding packaged and processed items.
+    </string>
+    <string name="day18tip">Tip:\nChoose whole fruits over fruit juices or whole grains over refined grains.</string>
+    <string name="day19">
+        Day 19: Swap a sugary snack for a healthy alternative.\n
+        Replace processed snacks with healthier options like nuts, fruit, or vegetable sticks.
+    </string>
+    <string name="day19tip">Tip:\nCarry snacks like almonds, apples, or carrot sticks to prevent cravings.</string>
+    <string name="day20">
+        Day 20: Limit processed foods and focus on whole foods.\n
+        Reducing processed foods can decrease sodium, unhealthy fats, and additives.
+    </string>
+    <string name="day20tip">Tip:\nFocus on preparing meals with fresh, whole ingredients.</string>
+    <string name="day21">
+        Day 21: Eat 3 meals a day and avoid mindless snacking.\n
+        Stick to regular meals to avoid the temptation to snack throughout the day.
+    </string>
+    <string name="day21tip">Tip:\nHave balanced meals with protein, fiber, and healthy fats to stay full longer.</string>
+    <string name="day22">
+        Day 22: Prepare all your meals for the day in advance.\n
+        Meal prep for the day ensures you don’t skip meals or opt for unhealthy snacks.
+    </string>
+    <string name="day22tip">Tip:\nPlan breakfast, lunch, dinner, and snacks the night before.</string>
+    <string name="day23">
+        Day 23: Incorporate fermented foods (e.g., yogurt, kimchi) into your meals.\n
+        Fermented foods support gut health and digestion.
+    </string>
+    <string name="day23tip">Tip:\nAdd sauerkraut, kimchi, or kefir to your meals for a probiotic boost.</string>
+    <string name="day24">
+        Day 24: Try a new healthy recipe that’s easy to prepare.\n
+        Try something new to keep meals interesting and prevent boredom with your diet.
+    </string>
+    <string name="day24tip">Tip:\nSearch for healthy recipes online or in cookbooks to expand your cooking repertoire.</string>
+    <string name="day25">
+        Day 25: Eat at least 2 servings of fruit today.\n
+        Fruit provides vital vitamins and fiber.
+    </string>
+    <string name="day25tip">Tip:\nAdd berries to your breakfast or have an apple as an afternoon snack.</string>
+    <string name="day26">
+        Day 26: Limit alcohol consumption for the remainder of the challenge.\n
+        Reducing alcohol intake can improve sleep, digestion, and overall health.
+    </string>
+    <string name="day26tip">Tip:\nSwap alcoholic drinks for sparkling water or herbal teas.</string>
+    <string name="day27">
+        Day 27: Add a variety of colors to your meals (aim for rainbow meals).\n
+        A colorful plate often indicates a variety of nutrients.
+    </string>
+    <string name="day27tip">Tip:\nInclude a mix of red, orange, green, and purple vegetables to your meals.</string>
+    <string name="day28">
+        Day 28: Eat mindfully and avoid distractions while eating\n
+        Mindful eating helps you stay in tune with your hunger and fullness cues.
+    </string>
+    <string name="day28tip">Tip:\nTurn off your phone, TV, and distractions when eating.</string>
+    <string name="day29">
+        Day 29: Reflect on your eating habits and the progress you’ve made.\n
+        Take a moment to assess how far you\'ve come and areas for improvement.
+    </string>
+    <string name="day29tip">Tip:\nWrite down the positive changes and areas where you struggled for continued improvement.</string>
+    <string name="day30">
+        Day 30: Share your results and challenges with the group, and plan how to continue healthy habits post-challenge.\n
+        Sharing your journey helps inspire others and solidifies your commitment.
+    </string>
+    <string name="day30tip">Tip:\nCreate a post-challenge plan to maintain healthy habits and continue improving your diet.</string>
+</resources>
