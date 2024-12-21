@@ -6,7 +6,6 @@ import androidx.activity.compose.setContent
 import androidx.activity.enableEdgeToEdge
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.material3.Scaffold
-import androidx.compose.material3.Surface
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
@@ -25,16 +24,12 @@ class MainActivity : ComponentActivity() {
         setContent {
             var dkMd: Boolean by remember{mutableStateOf(false)}
             _30DaysHealthyEatingChallengeTheme(darkTheme=dkMd) {
-                Surface(
-                    modifier = Modifier.fillMaxSize()
-                ) {
-                    Scaffold(
+                Scaffold(
                         topBar = {
                             HealthyEatingChallengeAppTopBar(dkMd, { dkMd = !dkMd })
                         }
-                    ) { innerpadding ->
+                ) { innerpadding ->
                         HealthyEatingChallengeApp(innerpadding)
-                    }
                 }
             }
         }

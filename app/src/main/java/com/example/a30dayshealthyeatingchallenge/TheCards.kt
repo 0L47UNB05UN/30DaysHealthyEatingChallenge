@@ -4,7 +4,6 @@ import androidx.compose.animation.animateContentSize
 import androidx.compose.animation.core.Spring
 import androidx.compose.animation.core.spring
 import androidx.compose.foundation.Image
-import androidx.compose.foundation.gestures.ScrollableDefaults
 import androidx.compose.foundation.layout.Arrangement
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
@@ -55,8 +54,8 @@ fun DayCard(day: Day, modifier: Modifier = Modifier){
                 .padding(8.dp)
                 .animateContentSize(
                     animationSpec = spring(
-                        dampingRatio = Spring.DampingRatioNoBouncy,
-                        stiffness = Spring.StiffnessMedium
+                        dampingRatio = Spring.DampingRatioMediumBouncy,
+                        stiffness = Spring.StiffnessLow
                     )
                 )
         ){
@@ -132,9 +131,8 @@ fun HealthyEatingChallengeAppTopBar(changed: Boolean, onClick: ()->Unit, modifie
 fun HealthyEatingChallengeApp(contentPadding: PaddingValues, modifier: Modifier = Modifier){
     LazyColumn(
         contentPadding=contentPadding,
-        flingBehavior = ScrollableDefaults.flingBehavior()
     ){
-        items(theData){itm->
+        items(theData, key={it.id}){ itm ->
             DayCard(itm, modifier)
         }
     }
