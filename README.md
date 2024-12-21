@@ -12,10 +12,10 @@ Scaffold with a top bar for navigation and theme toggling.
 
 #Screenshots
 # Light Theme
-![Light Theme](drawable/light_theme.png)
+![Light Theme](app/src/main/res/drawable/screenshot_20241220_173847)
 
 # Dark Theme
-![Dark Theme](drawable/dark_theme.png)
+![Dark Theme](drawable/screenshot_20241220_174234.png)
 
 # Installation
 Clone the repository:
