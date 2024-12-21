@@ -15,7 +15,7 @@ Scaffold with a top bar for navigation and theme toggling.
 ![Light Theme](app/src/main/res/drawable/screenshot_20241220_173847)
 
 # Dark Theme
-![Dark Theme](drawable/screenshot_20241220_174234.png)
+![Dark Theme](app/src/main/res/drawable/screenshot_20241220_174234.png)
 
 # Installation
 Clone the repository:
