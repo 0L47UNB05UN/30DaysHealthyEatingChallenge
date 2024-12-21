@@ -12,7 +12,7 @@ Scaffold with a top bar for navigation and theme toggling.
 
 #Screenshots
 # Light Theme
-![Light Theme](app/src/main/res/drawable/screenshot_20241220_173847)
+![Light Theme](app/src/main/res/drawable/screenshot_20241220_173847.png)
 
 # Dark Theme
 ![Dark Theme](app/src/main/res/drawable/screenshot_20241220_174234.png)
